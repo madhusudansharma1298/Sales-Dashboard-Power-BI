@@ -54,7 +54,8 @@ Developed an interactive Power BI dashboard to centralize and visualize key metr
 
 ##  Dashboard Preview
 
-<img width="1293" height="737" alt="image" src="https://github.com/user-attachments/assets/5f3ea885-4966-4b68-8501-ff9c27be1591" />
+<img width="1293" height="737" alt="image_dashboard" src="https://github.com/user-attachments/assets/8c918e20-6d5d-4a19-8c84-2fd60691f1ba" />
+
 
 
 ---
