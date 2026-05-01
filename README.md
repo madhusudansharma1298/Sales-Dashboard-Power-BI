@@ -17,6 +17,13 @@ Developed an interactive Power BI dashboard to centralize and visualize key metr
 
 ---
 
+##  Business Impact
+* Enables real-time tracking of sales performance
+* Helps identify top-performing products and regions
+* Supports data-driven decision making
+
+---
+
 ##  Business Objective
 * Track overall sales performance
 * Identify top-performing regions and products
@@ -43,6 +50,13 @@ Developed an interactive Power BI dashboard to centralize and visualize key metr
 
 ---
 
+##  Technical Implementation
+* Data cleaning using Power Query
+* DAX measures for KPI calculations
+* Data modeling with relationships
+
+--- 
+
 ##  Key Insights
 
 * Identified top revenue-generating regions contributing maximum sales
@@ -66,7 +80,7 @@ Developed an interactive Power BI dashboard to centralize and visualize key metr
 * Improved understanding of DAX functions and data modeling
 * Strengthened ability to translate business problems into data solutions
 
-##  Key Insights
+##  Other Important Insights
 * West region contributed highest sales (~35%)
 * Office Supplies category generated maximum revenue
 * Sales peak observed in Q4 indicating seasonal demand
